@@ -1,0 +1,18 @@
+//
+//  M2QuickKitFormDragon.pch
+//  M2QuickKitFormDragon
+//
+//  Created by thatsoul on 15/9/10.
+//  Copyright (c) 2015年 chenms.m2. All rights reserved.
+//
+
+#ifndef M2QuickKitFormDragon_M2QuickKitFormDragon_pch
+#define M2QuickKitFormDragon_M2QuickKitFormDragon_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import <CocoaLumberjack/CocoaLumberjack.h>
+#endif
+
+#endif
